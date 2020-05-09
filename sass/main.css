@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-size: 10px;
+}
+
+body {
+  font-family: 'Public Sans', sans-serif;
+  font-size: 2rem;
+}
+
+.navigation {
+  list-style: none;
+}
+
+.navigation li {
+  display: inline-block;
+  margin-left: 3rem;
+}
+
+.navigation a:link {
+  text-decoration: none;
+  color: gray;
+}
+/*# sourceMappingURL=main.css.map */
